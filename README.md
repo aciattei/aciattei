@@ -1,10 +1,7 @@
 ### Hi there! I'm Ariane Ciattei 👋
 
-- 🌱 I’m currently learning Java, Phyton and JavaScript
-
 ### Olá! Eu sou a Ariane Ciattei 👋
 
-- 🌱 Atualmente, estou estudando Java, Phyton e JavaScript
 
 </div>
 <div style="display: inline_block"><br>
