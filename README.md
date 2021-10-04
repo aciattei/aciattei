@@ -20,8 +20,8 @@
   <div style="display: inline_block"><br>
   
   
-- 📫 How to reach me:
-- 📫 Como me encontrar:
+📫 How to reach me:
+📫 Como me encontrar:
   
   <div> 
   <a href="https://instagram.com/falaoiariane" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
