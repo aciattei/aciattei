@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi there!</h1>
+<p>My name is Ariane. I have a degree in business management and am currently studying python development.</p>
 
+<p>Here you will find some exercises developed during classes and study.</p>
+<br>
 <h2>Curiosities</h2>
 <ul>
   <li>Pronouns: She/Her</li>
@@ -20,7 +23,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aciattei&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></a>
 </div>
 <br>
-<h2>📫 How to reach me:</h2>
+<h2>📫 How to reach me</h2>
 <div style="display: inline_block"> 
   <a href="https://instagram.com/falaoiariane" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/aciattei" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
