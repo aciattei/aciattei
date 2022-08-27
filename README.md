@@ -20,7 +20,12 @@
 <h2>📉 What I've been doing</h2>
 <div>
   <a href="https://github.com/aciattei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aciattei&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aciattei&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+<div>
+  <a href="https://github.com/aciattei"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aciattei&layout=compact&theme=github_dark">
 </div>
 <br>
 <h2>☎ How to reach me</h2>
