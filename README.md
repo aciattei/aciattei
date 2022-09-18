@@ -1,5 +1,5 @@
 <h1>👋 Hi there!</h1>
-<p>My name is Ariane. I'm bachelor in Business Management and I'm currently pursuing a Master Degree in Innovation and Technological Entreperneurship at Universidade do Porto. I'm also a software developer.</p>
+<p>My name is Ariane. I'm bachelor in Business Management and I'm currently studying for a Master's Degree in Innovation and Technological Entreperneurship at Universidade do Porto. I'm also passionate about technology and a software developer.</p>
 
 <p>Here you will find some projects I developed during my studies.</p>
 <br>
