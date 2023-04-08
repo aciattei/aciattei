@@ -1,6 +1,5 @@
-<h1 align="center">👋 Hi there!</h1>
+<h1>👋 Hi there!</h1>
 <p>My name is Ariane. I have a degree in business management and am currently studying python development.</p>
-
 <p>Here you will find some exercises developed during classes and study.</p>
 <br>
 <h2>🕵️‍♀️ Curiosities</h2>
