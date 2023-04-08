@@ -1,6 +1,7 @@
 <h1>👋 Hi there!</h1>
-<p>My name is Ariane. I have a degree in business management and am currently studying python development.</p>
-<p>Here you will find some exercises developed during classes and study.</p>
+<p>My name is Ariane. I'm bachelor in Business Management and I'm currently studying for a Master's Degree in Innovation and Technological Entrepreneurship at Universidade do Porto. I'm also passionate about technology and a software developer.</p>
+
+<p>Here you will find some projects I developed during my studies.</p>
 <br>
 <h2>🕵️‍♀️ Curiosities</h2>
 <ul>
