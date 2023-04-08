@@ -6,7 +6,7 @@
 <h2>🕵️‍♀️ Curiosities</h2>
 <ul>
   <li>Pronouns: She/Her</li>
-  <li>Speak: Portuguese and English</li>
+  <li>Speak: Portuguese and English. Learning French.</li>
 </ul>
 <br>
 <h2>🤖 Languages and tools I'm familiar with</h2>
